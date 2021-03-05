@@ -1,5 +1,7 @@
 body {
   background-color:black;
+  display: flex;
+  flex-direction: block;
 }
 
 h1 {
@@ -14,12 +16,29 @@ p {
 
 
 img {
+  
   width: 1766px;
   height: 996px;
+  align-content: center;
 }
 
 .sns {
   color: blueviolet;
   text-align: center;
   margin-bottom: 2rem;
+}
+
+button {
+  color: aqua;
+  background-color: brown;
+  border-radius: 20px;
+  display: block;
+  width: 250px;
+  height: 50px;
+  border: none;
+  margin-left: 42%;
+}
+
+button:hover {
+  opacity: 0%;
 }
