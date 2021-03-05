@@ -1,3 +1,19 @@
+body {
+  background-color:black;
+}
+
 h1 {
-  color: #0066ff
+  color: #0066ff;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: blueviolet;
+}
+
+
+img {
+  width: 1766px;
+  height: 996px;
 }
