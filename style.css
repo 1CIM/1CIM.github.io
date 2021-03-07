@@ -44,7 +44,7 @@ button {
   margin-left: 42%;
 }
 
-button:hover {
+.btn0:hover {
   opacity: 0%;
 }
 
@@ -70,4 +70,17 @@ button:hover {
 
 .p2div {
   margin: auto;
+}
+
+.btn2 {
+  margin: auto;
+  margin-top: 50%;
+}
+
+.btn1:hover {
+  opacity: 80%;
+}
+
+.btn2:hover {
+  opacity: 80%;
 }
